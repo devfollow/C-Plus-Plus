@@ -1,3 +1,4 @@
+//A program for binary search algorithm
 #include <iostream>
 using namespace std;
 int binary_search(int a[],int l,int r,int key){
